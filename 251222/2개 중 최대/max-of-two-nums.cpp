@@ -8,10 +8,10 @@ int main() {
     cin>>a>>b;
 
     if(a>b){
-        printf(a);
+        cout<<a;
     }
     else{
-        printf(b);
+        cout<<b;
     }
     return 0;
 }
