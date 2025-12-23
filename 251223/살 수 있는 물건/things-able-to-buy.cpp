@@ -8,7 +8,7 @@ int main() {
     cin>>a;
 
     if(a>=3000){
-        cout<<"book"
+        cout<<"book";
     }
     else if(a>=1000){
         cout<<"mask";
