@@ -10,7 +10,7 @@ int main() {
     
     // Please write your code here.
     
-    while(N>M){
+    while(N>=M){
         cout<<N<<"\n";
         N = N/M;
     }
