@@ -7,13 +7,14 @@ int main() {
 
     cin >> N;
     cin >> M;
-    cout<<N<<"\n";
     
     // Please write your code here.
+    
     while(N>M){
-        N = N/M;
         cout<<N<<"\n";
+        N = N/M;
     }
+    cout<<N<<"\n";
     
     return 0;
 }
