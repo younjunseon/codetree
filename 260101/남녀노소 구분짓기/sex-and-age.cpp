@@ -16,7 +16,7 @@ int main() {
     }
     else{
         if(b>=19){
-            cout<<"WOMAM";
+            cout<<"WOMAN";
         }
         else{
             cout<<"GIRL";
